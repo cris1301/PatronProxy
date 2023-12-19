@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "PatronProxy2/1.0.0": {
+        "runtime": {
+          "PatronProxy2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PatronProxy2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\gabri\OneDrive\Escritorio\Guardados\PatronProxy2\obj\Debug\net8.0\PatronProxy2.csproj.AssemblyReference.cache
+C:\Users\gabri\OneDrive\Escritorio\Guardados\PatronProxy2\obj\Debug\net8.0\PatronProxy2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\OneDrive\Escritorio\Guardados\PatronProxy2\obj\Debug\net8.0\PatronProxy2.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Escritorio\Guardados\PatronProxy2\obj\Debug\net8.0\PatronProxy2.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Escritorio\Guardados\PatronProxy2\obj\Debug\net8.0\PatronProxy2.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Escritorio\Guardados\PatronProxy2\bin\Debug\net8.0\PatronProxy2.exe
+C:\Users\gabri\OneDrive\Escritorio\Guardados\PatronProxy2\bin\Debug\net8.0\PatronProxy2.deps.json
+C:\Users\gabri\OneDrive\Escritorio\Guardados\PatronProxy2\bin\Debug\net8.0\PatronProxy2.runtimeconfig.json
+C:\Users\gabri\OneDrive\Escritorio\Guardados\PatronProxy2\bin\Debug\net8.0\PatronProxy2.dll
+C:\Users\gabri\OneDrive\Escritorio\Guardados\PatronProxy2\bin\Debug\net8.0\PatronProxy2.pdb
+C:\Users\gabri\OneDrive\Escritorio\Guardados\PatronProxy2\obj\Debug\net8.0\PatronProxy2.dll
+C:\Users\gabri\OneDrive\Escritorio\Guardados\PatronProxy2\obj\Debug\net8.0\refint\PatronProxy2.dll
+C:\Users\gabri\OneDrive\Escritorio\Guardados\PatronProxy2\obj\Debug\net8.0\PatronProxy2.pdb
+C:\Users\gabri\OneDrive\Escritorio\Guardados\PatronProxy2\obj\Debug\net8.0\PatronProxy2.genruntimeconfig.cache
+C:\Users\gabri\OneDrive\Escritorio\Guardados\PatronProxy2\obj\Debug\net8.0\ref\PatronProxy2.dll
